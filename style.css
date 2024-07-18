@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+
+.calc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    border: 5px solid black;
+}
+.display{
+    border: 2px solid black;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.buttons{
+    width: 100%;
+}
